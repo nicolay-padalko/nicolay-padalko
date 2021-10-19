@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolay Padalko</h1>
-<h3 align="center">Transição de carreira estudando para desenvolvimento Full Stack</h3>
+<h3 align="center">Transição de carreira estudando desenvolvimento Full Stack</h3>
 
 - 🌱 I’m currently learning **Spring - AWS**
 

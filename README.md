@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolay Padalko</h1>
 <h3 align="center">Transição de carreira estudando desenvolvimento Full Stack</h3>
 
-- 🌱 I’m currently learning **Java - Spring - AWS**
+- 🌱 I’m currently learning **Java - Spring - PHP - Laravel**
 
-- 👯 I’m looking to collaborate on **AWS Projects**
+- 👯 I’m looking to collaborate on **Back-end Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
